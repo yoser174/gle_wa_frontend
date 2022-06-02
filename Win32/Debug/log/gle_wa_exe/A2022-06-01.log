@@ -1,0 +1,1040 @@
+GLE_WA.exe: 0000192C: 11:03:25 []:>--------------------------------------------------------------<
+GLE_WA.exe: 0000192C: 11:03:25 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 0000192C: 11:03:25 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 0000192C: 11:03:25 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 0000192C: 11:03:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 0000192C: 11:03:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001100: 11:08:23 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001100: 11:08:23 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001100: 11:08:23 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001100: 11:08:23 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001100: 11:08:23 [TUniGUISessionManager]:Cache erase job created, Folder count: [2]
+GLE_WA.exe: 00001100: 11:08:23 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001100: 11:08:23 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 0000308C: 11:08:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: GNXYpsDVp310A8353DE ) : Addr: $007D7A0A
+GLE_WA.exe: 000018E8: 11:21:29 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000018E8: 11:21:29 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000018E8: 11:21:29 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000018E8: 11:21:29 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000018E8: 11:21:29 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000018E8: 11:21:29 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000018E8: 11:21:30 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002E84: 11:21:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Xbx2wjTsDF10A8354F5 ) : Addr: $007D7A0A
+GLE_WA.exe: 00001D44: 11:21:46 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001D44: 11:21:46 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001D44: 11:21:46 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001D44: 11:21:46 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001D44: 11:21:46 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001D44: 11:21:46 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001D44: 11:21:46 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000A14: 11:21:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: icR4zCOCTI10A835881 ) : Addr: $007D7A0A
+GLE_WA.exe: 000033AC: 11:22:03 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000033AC: 11:22:03 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000033AC: 11:22:03 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000033AC: 11:22:03 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000033AC: 11:22:03 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000033AC: 11:22:03 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000033AC: 11:22:03 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000FA0: 11:22:04 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 7aep6XCoKK10A835894 ) : Addr: $007D7A0A
+GLE_WA.exe: 0000262C: 11:22:25 []:>--------------------------------------------------------------<
+GLE_WA.exe: 0000262C: 11:22:25 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 0000262C: 11:22:25 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 0000262C: 11:22:25 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 0000262C: 11:22:25 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 0000262C: 11:22:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 0000262C: 11:22:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000022D4: 11:22:45 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000022D4: 11:22:45 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000022D4: 11:22:45 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000022D4: 11:22:45 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000022D4: 11:22:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000022D4: 11:22:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000028B0: 11:22:47 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: mgKbZxyG5210A8358BF ) : Addr: $007D7A0A
+GLE_WA.exe: 000022D4: 11:22:58 [TUniServerModule]:Shutting Down Server.
+GLE_WA.exe: 000022D4: 11:22:58 [TUniServerModule]:Stopping HTTP Server.
+GLE_WA.exe: 000022D4: 11:22:59 [TUniServerModule]:HTTP Server Stopped.
+GLE_WA.exe: 000022D4: 11:22:59 [TUniGUISessionManager]:Terminating Session manager.
+GLE_WA.exe: 000022D4: 11:22:59 [TUniGUISessionManager]:Stopping Cache Eraser...
+GLE_WA.exe: 000022D4: 11:22:59 [TUniGUISessionManager]:Cache Eraser Stopped.
+GLE_WA.exe: 000022D4: 11:22:59 [TUniGUISessionManager]:Destroying Worker Threads.
+GLE_WA.exe: 000022D4: 11:22:59 [TUniGUISessionManager]:Session manager terminated.
+GLE_WA.exe: 000022D4: 11:22:59 [TUniServerModule]:Server Shutdown Completed.
+GLE_WA.exe: 000022D4: 11:22:59 []:<-------------------------------------------------------------->
+GLE_WA.exe: 000022D4: 11:22:59 [Terminated]:Exit Code: 0
+GLE_WA.exe: 0000136C: 11:23:18 []:>--------------------------------------------------------------<
+GLE_WA.exe: 0000136C: 11:23:18 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 0000136C: 11:23:18 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 0000136C: 11:23:18 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 0000136C: 11:23:18 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 0000136C: 11:23:18 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 0000136C: 11:23:18 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001818: 11:23:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: WNoYEPLugV10A8358D8 ) : Addr: $007D7A0A
+GLE_WA.exe: 00001628: 11:23:32 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001628: 11:23:32 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001628: 11:23:32 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001628: 11:23:32 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001628: 11:23:32 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001628: 11:23:32 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001628: 11:23:32 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 0000166C: 11:23:33 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: b4IxDSWMcH10A8358FD ) : Addr: $007D7A0A
+GLE_WA.exe: 000008A4: 11:24:12 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000008A4: 11:24:12 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000008A4: 11:24:12 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000008A4: 11:24:12 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000008A4: 11:24:12 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000008A4: 11:24:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000008A4: 11:24:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003158: 11:24:12 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: PH49CdQCwW10A83590D ) : Addr: $007D7A0A
+GLE_WA.exe: 0000097C: 11:25:26 []:>--------------------------------------------------------------<
+GLE_WA.exe: 0000097C: 11:25:26 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 0000097C: 11:25:26 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 0000097C: 11:25:26 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 0000097C: 11:25:26 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 0000097C: 11:25:26 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 0000097C: 11:25:27 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000006C4: 11:25:28 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: AuQw68Qeak10A83593A ) : Addr: $007D7A0A
+GLE_WA.exe: 000024E4: 11:26:19 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000024E4: 11:26:19 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000024E4: 11:26:19 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000024E4: 11:26:19 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000024E4: 11:26:19 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000024E4: 11:26:19 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000024E4: 11:26:19 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000023EC: 11:26:20 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Qf8Shjib3p10A835992 ) : Addr: $007D7A0A
+GLE_WA.exe: 00000984: 11:35:09 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00000984: 11:35:09 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00000984: 11:35:09 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00000984: 11:35:09 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00000984: 11:35:09 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00000984: 11:35:09 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00000984: 11:35:10 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000025EC: 11:35:10 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ZR7jZzC6Eq10A8359CE ) : Addr: $007D7A0A
+GLE_WA.exe: 00001C34: 11:35:35 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001C34: 11:35:35 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001C34: 11:35:35 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001C34: 11:35:35 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001C34: 11:35:35 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001C34: 11:35:35 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001C34: 11:35:35 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001D10: 11:35:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: CNMEEBWIIh10A835C34 ) : Addr: $007D7A0A
+GLE_WA.exe: 00001D5C: 11:42:29 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001D5C: 11:42:29 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001D5C: 11:42:29 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001D5C: 11:42:29 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001D5C: 11:42:29 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001D5C: 11:42:29 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001D5C: 11:42:29 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001E04: 11:42:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Dx1rmBCGfZ10A835C51 ) : Addr: $007D7A0A
+GLE_WA.exe: 0000281C: 11:42:58 []:>--------------------------------------------------------------<
+GLE_WA.exe: 0000281C: 11:42:58 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 0000281C: 11:42:58 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 0000281C: 11:42:58 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 0000281C: 11:42:58 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 0000281C: 11:42:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 0000281C: 11:42:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001AEC: 11:43:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: jsQZFcdOcg10A835E32 ) : Addr: $007D7A0A
+GLE_WA.exe: 000031FC: 11:44:05 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000031FC: 11:44:05 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000031FC: 11:44:05 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000031FC: 11:44:05 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000031FC: 11:44:05 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000031FC: 11:44:05 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000031FC: 11:44:05 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002188: 11:44:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: W6nDGz4vKd10A835E54 ) : Addr: $007D7A0A
+GLE_WA.exe: 00000EE8: 11:45:25 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00000EE8: 11:45:25 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00000EE8: 11:45:25 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00000EE8: 11:45:25 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00000EE8: 11:45:25 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00000EE8: 11:45:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00000EE8: 11:45:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000F2C: 11:45:26 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: q9NrdpQ2M310A835EA0 ) : Addr: $007D7A0A
+GLE_WA.exe: 00002A10: 11:45:45 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002A10: 11:45:45 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002A10: 11:45:45 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002A10: 11:45:45 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002A10: 11:45:45 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002A10: 11:45:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002A10: 11:45:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001C38: 11:45:46 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: I6rcQMyxf910A835EFD ) : Addr: $007D7A0A
+GLE_WA.exe: 000021C8: 11:46:15 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000021C8: 11:46:15 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000021C8: 11:46:15 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000021C8: 11:46:15 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000021C8: 11:46:15 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000021C8: 11:46:16 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000021C8: 11:46:16 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002704: 11:46:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: NEa3HZGF6110A835F14 ) : Addr: $007D7A0A
+GLE_WA.exe: 00002C14: 11:52:36 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002C14: 11:52:36 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002C14: 11:52:36 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002C14: 11:52:36 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002C14: 11:52:36 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002C14: 11:52:36 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002C14: 11:52:36 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002D3C: 11:52:37 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: qWaOKG9stV10A835F37 ) : Addr: $007D7A0A
+GLE_WA.exe: 00000D54: 11:52:58 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00000D54: 11:52:58 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00000D54: 11:52:58 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00000D54: 11:52:58 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00000D54: 11:52:58 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00000D54: 11:52:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00000D54: 11:52:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002114: 11:52:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: aujnwHgErx10A8360F0 ) : Addr: $007D7A0A
+GLE_WA.exe: 00001404: 11:48:48 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001404: 11:48:49 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001404: 11:48:49 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001404: 11:48:49 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001404: 11:48:49 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001404: 11:48:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001404: 11:48:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002454: 11:48:50 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: c7BiH4yZyT10A836109 ) : Addr: $007D7A0A
+GLE_WA.exe: 000023EC: 12:05:29 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000023EC: 12:05:29 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000023EC: 12:05:29 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000023EC: 12:05:29 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000023EC: 12:05:29 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000023EC: 12:05:29 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000023EC: 12:05:29 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000CF4: 12:05:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 7tM1cMxe5x10A835FE9 ) : Addr: $007D7A0A
+GLE_WA.exe: 00000904: 12:24:28 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00000904: 12:24:28 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00000904: 12:24:28 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00000904: 12:24:28 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00000904: 12:24:28 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00000904: 12:24:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00000904: 12:24:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000398: 12:24:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: NPkYLCVlbn10A83646E ) : Addr: $007D7F8A
+GLE_WA.exe: 00002CB4: 12:27:33 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002CB4: 12:27:33 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002CB4: 12:27:33 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002CB4: 12:27:33 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002CB4: 12:27:33 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002CB4: 12:27:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002CB4: 12:27:33 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002B28: 12:27:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: A8KZy9AeoB10A836994 ) : Addr: $007D7F8A
+GLE_WA.exe: 00000244: 12:30:35 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00000244: 12:30:35 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00000244: 12:30:35 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00000244: 12:30:35 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00000244: 12:30:35 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00000244: 12:30:35 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00000244: 12:30:35 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001134: 12:30:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: NiXfXVZsXU10A836A6B ) : Addr: $007D7F8A
+GLE_WA.exe: 00000B68: 12:38:20 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00000B68: 12:38:20 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00000B68: 12:38:20 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00000B68: 12:38:20 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00000B68: 12:38:20 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00000B68: 12:38:20 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00000B68: 12:38:20 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 0000225C: 12:38:21 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: rVXMiKhCSj10A836B3D ) : Addr: $007D7F8A
+GLE_WA.exe: 000002D0: 12:40:49 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000002D0: 12:40:49 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000002D0: 12:40:49 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000002D0: 12:40:49 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000002D0: 12:40:49 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000002D0: 12:40:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000002D0: 12:40:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000003EC: 12:40:50 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: xNLkhcYlA110A836D57 ) : Addr: $007D7F8A
+GLE_WA.exe: 000017FC: 12:42:50 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000017FC: 12:42:50 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000017FC: 12:42:50 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000017FC: 12:42:50 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000017FC: 12:42:50 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000017FC: 12:42:50 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000017FC: 12:42:50 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000FB8: 12:42:52 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: G6yJQJkZ2V10A836E04 ) : Addr: $007D7F8A
+GLE_WA.exe: 00000F00: 12:47:16 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00000F00: 12:47:16 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00000F00: 12:47:16 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00000F00: 12:47:16 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00000F00: 12:47:16 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00000F00: 12:47:16 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00000F00: 12:47:16 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000006E4: 12:47:17 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: IRKHjSXjdw10A836E92 ) : Addr: $007D834A
+GLE_WA.exe: 00000A58: 12:47:32 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00000A58: 12:47:32 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00000A58: 12:47:32 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00000A58: 12:47:32 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00000A58: 12:47:32 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00000A58: 12:47:32 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001550: 12:47:33 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: zKrJUdCW8l10A836FC4 ) : Addr: $007D834A
+GLE_WA.exe: 00000A58: 12:47:55 [TUniServerModule]:Shutting Down Server.
+GLE_WA.exe: 00000A58: 12:47:55 [TUniServerModule]:Stopping HTTP Server.
+GLE_WA.exe: 00000A58: 12:47:56 [TUniServerModule]:HTTP Server Stopped.
+GLE_WA.exe: 00000A58: 12:47:56 [TUniGUISessionManager]:Terminating Session manager.
+GLE_WA.exe: 00000A58: 12:47:56 [TUniGUISessionManager]:Stopping Cache Eraser...
+GLE_WA.exe: 00000A58: 12:47:56 [TUniGUISessionManager]:Cache Eraser Stopped.
+GLE_WA.exe: 00000A58: 12:47:56 [TUniGUISessionManager]:Destroying Worker Threads.
+GLE_WA.exe: 00000A58: 12:47:56 [TUniGUISessionManager]:Session manager terminated.
+GLE_WA.exe: 00000A58: 12:47:56 [TUniServerModule]:Server Shutdown Completed.
+GLE_WA.exe: 00000A58: 12:47:56 []:<-------------------------------------------------------------->
+GLE_WA.exe: 00000A58: 12:47:56 [Terminated]:Exit Code: 0
+GLE_WA.exe: 00002D94: 12:48:00 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002D94: 12:48:00 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002D94: 12:48:00 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002D94: 12:48:00 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002D94: 12:48:00 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002D94: 12:48:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002D94: 12:48:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002354: 12:48:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: QHI6DKzd8L10A836FD7 ) : Addr: $007D834A
+GLE_WA.exe: 00000684: 13:43:18 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00000684: 13:43:18 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00000684: 13:43:18 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00000684: 13:43:18 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00000684: 13:43:18 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00000684: 13:43:18 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00000684: 13:43:18 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002BE0: 13:43:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 6rOzuMdn6u10A836FF6 ) : Addr: $007D834A
+GLE_WA.exe: 00002300: 14:00:52 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002300: 14:00:52 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002300: 14:00:52 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002300: 14:00:52 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002300: 14:00:52 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002300: 14:00:52 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002300: 14:00:52 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 0000258C: 14:00:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 5a2RnIMd4A10A837EF7 ) : Addr: $007D834A
+GLE_WA.exe: 00002588: 14:01:31 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002588: 14:01:31 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002588: 14:01:31 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002588: 14:01:31 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002588: 14:01:31 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002588: 14:01:31 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002588: 14:01:31 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000031E8: 14:01:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RWhr4W6JYQ10A8383BC ) : Addr: $007D834A
+GLE_WA.exe: 00001AEC: 14:06:26 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001AEC: 14:06:26 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001AEC: 14:06:26 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001AEC: 14:06:26 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001AEC: 14:06:26 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001AEC: 14:06:26 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001AEC: 14:06:27 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000037DC: 14:06:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: anwCntxdyu10A8383E8 ) : Addr: $007D834A
+GLE_WA.exe: 000012D4: 14:07:37 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000012D4: 14:07:37 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000012D4: 14:07:37 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000012D4: 14:07:37 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000012D4: 14:07:37 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000012D4: 14:07:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000012D4: 14:07:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001E78: 14:07:38 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: MRvOMe6DQa10A83853F ) : Addr: $007D834A
+GLE_WA.exe: 00002928: 14:08:32 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002928: 14:08:32 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002928: 14:08:32 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002928: 14:08:32 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002928: 14:08:32 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002928: 14:08:32 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002928: 14:08:32 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001484: 14:08:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: fKQjIHnDzR10A838590 ) : Addr: $007D834A
+GLE_WA.exe: 00000F64: 14:08:33 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: fKQjIHnDzR10A838590 ) : Addr: $007D834A
+GLE_WA.exe: 000034F8: 14:09:16 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000034F8: 14:09:16 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000034F8: 14:09:16 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000034F8: 14:09:16 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000034F8: 14:09:16 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000034F8: 14:09:16 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000034F8: 14:09:16 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000ECC: 14:09:17 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: lH14gmotfD10A8385CF ) : Addr: $007D834A
+GLE_WA.exe: 00001E78: 14:10:00 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001E78: 14:10:00 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001E78: 14:10:00 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001E78: 14:10:00 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001E78: 14:10:00 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001E78: 14:10:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001E78: 14:10:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000035D0: 14:10:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: scfBuS79SY10A838602 ) : Addr: $007D834A
+GLE_WA.exe: 00001FB0: 14:10:33 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001FB0: 14:10:33 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001FB0: 14:10:33 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001FB0: 14:10:33 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001FB0: 14:10:33 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001FB0: 14:10:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001FB0: 14:10:33 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003534: 14:10:34 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: VbYWOA7j7X10A838634 ) : Addr: $007D834A
+GLE_WA.exe: 00001B40: 14:18:34 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001B40: 14:18:34 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001B40: 14:18:34 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001B40: 14:18:34 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001B40: 14:18:34 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001B40: 14:18:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001B40: 14:18:34 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000015F8: 14:18:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: OUtXtzwWyz10A83865C ) : Addr: $007D834A
+GLE_WA.exe: 00001184: 14:24:57 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001184: 14:24:57 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001184: 14:24:57 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001184: 14:24:57 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001184: 14:24:57 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001184: 14:24:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001184: 14:24:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001908: 14:24:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: XZJxbr2xK910A838889 ) : Addr: $007D834A
+GLE_WA.exe: 00003494: 14:29:39 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003494: 14:29:39 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003494: 14:29:39 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003494: 14:29:39 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003494: 14:29:39 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003494: 14:29:39 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003494: 14:29:39 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001B28: 14:29:39 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: pb2FDTRm4410A838A43 ) : Addr: $007D834A
+GLE_WA.exe: 0000279C: 14:30:17 []:>--------------------------------------------------------------<
+GLE_WA.exe: 0000279C: 14:30:17 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 0000279C: 14:30:17 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 0000279C: 14:30:17 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 0000279C: 14:30:17 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 0000279C: 14:30:17 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 0000279C: 14:30:17 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001808: 14:30:18 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 8auKEjplQo10A838B89 ) : Addr: $007D834A
+GLE_WA.exe: 000035D4: 14:30:41 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000035D4: 14:30:41 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000035D4: 14:30:41 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000035D4: 14:30:41 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000035D4: 14:30:41 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000035D4: 14:30:41 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000035D4: 14:30:41 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000037E8: 14:30:42 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: JxNz6snVVm10A838BB6 ) : Addr: $007D834A
+GLE_WA.exe: 000030F0: 14:31:37 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000030F0: 14:31:37 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000030F0: 14:31:37 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000030F0: 14:31:37 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000030F0: 14:31:37 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000030F0: 14:31:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000030F0: 14:31:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001504: 14:31:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: b3AK9gmpK210A838BD2 ) : Addr: $007D834A
+GLE_WA.exe: 00003198: 14:33:50 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003198: 14:33:50 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003198: 14:33:50 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003198: 14:33:50 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003198: 14:33:50 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003198: 14:33:50 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003198: 14:33:50 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002694: 14:33:51 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: jj2gQW5lfG10A838C18 ) : Addr: $007D834A
+GLE_WA.exe: 00000F84: 14:35:03 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00000F84: 14:35:03 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00000F84: 14:35:03 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00000F84: 14:35:03 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00000F84: 14:35:03 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00000F84: 14:35:03 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00000F84: 14:35:03 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001B7C: 14:35:04 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: uYn4tI3Vrl10A838CAC ) : Addr: $007D834A
+GLE_WA.exe: 00001D10: 14:35:25 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001D10: 14:35:25 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001D10: 14:35:25 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001D10: 14:35:25 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001D10: 14:35:25 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001D10: 14:35:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001D10: 14:35:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002AC8: 14:35:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: WTgM4lZkTW10A838D01 ) : Addr: $007D834A
+GLE_WA.exe: 00003554: 14:36:12 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003554: 14:36:12 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003554: 14:36:12 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003554: 14:36:12 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003554: 14:36:12 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003554: 14:36:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003554: 14:36:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000001DC: 14:36:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: CrUw2CkVv710A838D1B ) : Addr: $007D834A
+GLE_WA.exe: 0000377C: 14:36:48 []:>--------------------------------------------------------------<
+GLE_WA.exe: 0000377C: 14:36:48 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 0000377C: 14:36:48 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 0000377C: 14:36:48 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 0000377C: 14:36:48 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 0000377C: 14:36:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 0000377C: 14:36:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000037F8: 14:36:49 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: QMsMi5FnG810A838D51 ) : Addr: $007D834A
+GLE_WA.exe: 00001864: 14:40:46 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001864: 14:40:46 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001864: 14:40:46 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001864: 14:40:46 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001864: 14:40:46 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001864: 14:40:46 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001864: 14:40:46 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003584: 14:40:47 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: VMHIVdCNEh10A838D7B ) : Addr: $007D834A
+GLE_WA.exe: 00002158: 14:42:34 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002158: 14:42:34 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002158: 14:42:34 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002158: 14:42:34 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002158: 14:42:34 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002158: 14:42:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002158: 14:42:35 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000023B4: 14:42:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 6mVzaLgWmy10A838E93 ) : Addr: $007D834A
+GLE_WA.exe: 0000284C: 14:57:36 []:>--------------------------------------------------------------<
+GLE_WA.exe: 0000284C: 14:57:36 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 0000284C: 14:57:36 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 0000284C: 14:57:36 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 0000284C: 14:57:36 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 0000284C: 14:57:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 0000284C: 14:57:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002618: 14:57:37 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: xNkLxPMSih10A838F0B ) : Addr: $007E124A
+GLE_WA.exe: 00002B84: 14:57:37 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: xNkLxPMSih10A838F0B ) : Addr: $007E124A
+GLE_WA.exe: 000003E8: 15:09:17 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000003E8: 15:09:17 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000003E8: 15:09:17 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000003E8: 15:09:17 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000003E8: 15:09:17 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000003E8: 15:09:17 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000003E8: 15:09:17 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001DF8: 15:09:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 4bAhDTncHM10A839320 ) : Addr: $007E124A
+GLE_WA.exe: 00001D0C: 15:11:28 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001D0C: 15:11:28 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001D0C: 15:11:28 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001D0C: 15:11:28 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001D0C: 15:11:28 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001D0C: 15:11:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001D0C: 15:11:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000036F8: 15:11:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: UfvWZlu8h810A83964C ) : Addr: $007E124A
+GLE_WA.exe: 000015F4: 15:12:45 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000015F4: 15:12:45 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000015F4: 15:12:45 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000015F4: 15:12:45 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000015F4: 15:12:45 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000015F4: 15:12:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000015F4: 15:12:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000034EC: 16:47:37 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: QTow4gwgmS10A83973B ) : Addr: $007E124A
+GLE_WA.exe: 000017A4: 16:52:33 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000017A4: 16:52:33 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000017A4: 16:52:33 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000017A4: 16:52:33 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000017A4: 16:52:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000017A4: 16:52:33 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003518: 16:53:47 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003518: 16:53:47 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003518: 16:53:47 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003518: 16:53:47 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003518: 16:53:47 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003518: 16:53:47 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000E0C: 16:54:05 [127.0.0.1]:ERESTException : Request has no client component : Addr: $00BBDEC3
+GLE_WA.exe: 00001928: 16:54:33 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001928: 16:54:33 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001928: 16:54:33 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001928: 16:54:33 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001928: 16:54:33 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001928: 16:54:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001928: 16:54:33 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002B34: 16:54:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: emPyudX4Gu10A83B2A7 ) : Addr: $007E124A
+GLE_WA.exe: 000035F4: 16:58:56 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000035F4: 16:58:56 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000035F4: 16:58:56 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000035F4: 16:58:56 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000035F4: 16:58:56 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000035F4: 16:58:56 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000035F4: 16:58:56 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003594: 16:58:57 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Vqhc9ZNuGD10A83B2DB ) : Addr: $007E124A
+GLE_WA.exe: 00000FB0: 16:59:09 [127.0.0.1]:EAccessViolation : Access violation at address 00BC26AC in module 'GLE_WA.exe'. Read of address 0000009D : Addr: $00BC26AC
+GLE_WA.exe: 000029DC: 17:00:00 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000029DC: 17:00:00 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000029DC: 17:00:00 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000029DC: 17:00:00 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000029DC: 17:00:00 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000029DC: 17:00:01 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000029DC: 17:00:01 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000034C8: 17:00:03 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: PvKyW7UtBD10A83B409 ) : Addr: $007E124A
+GLE_WA.exe: 00001188: 17:04:05 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001188: 17:04:05 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001188: 17:04:05 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001188: 17:04:05 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001188: 17:04:05 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001188: 17:04:05 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001188: 17:04:05 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000017E4: 17:04:07 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: wPGf9OjN1i10A83B455 ) : Addr: $007E124A
+GLE_WA.exe: 00003740: 17:10:59 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003740: 17:10:59 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003740: 17:10:59 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003740: 17:10:59 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003740: 17:10:59 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003740: 17:10:59 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003740: 17:10:59 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002CCC: 17:11:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: HyqLw3CS4910A83B56F ) : Addr: $007E124A
+GLE_WA.exe: 000029E4: 17:11:42 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000029E4: 17:11:42 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000029E4: 17:11:42 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000029E4: 17:11:42 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000029E4: 17:11:42 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000029E4: 17:11:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000029E4: 17:11:42 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002BA4: 17:11:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Ol3yYJMuUM10A83B74D ) : Addr: $007E124A
+GLE_WA.exe: 000027E8: 17:12:18 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000027E8: 17:12:18 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000027E8: 17:12:18 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000027E8: 17:12:18 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000027E8: 17:12:18 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000027E8: 17:12:18 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000027E8: 17:12:18 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000BF0: 17:12:21 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: tnmWzwimcy10A83B780 ) : Addr: $007E124A
+GLE_WA.exe: 000019FC: 17:13:54 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000019FC: 17:13:54 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000019FC: 17:13:54 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000019FC: 17:13:54 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000019FC: 17:13:54 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000019FC: 17:13:54 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000019FC: 17:13:54 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000021B0: 17:13:55 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Aqj8KkWamu10A83B7AB ) : Addr: $007E124A
+GLE_WA.exe: 00002B04: 17:14:36 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002B04: 17:14:36 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002B04: 17:14:36 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002B04: 17:14:36 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002B04: 17:14:36 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002B04: 17:14:36 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002B04: 17:14:36 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000018E8: 17:14:38 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RDYdyJEVqy10A83B818 ) : Addr: $007E124A
+GLE_WA.exe: 0000180C: 17:14:38 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RDYdyJEVqy10A83B818 ) : Addr: $007E124A
+GLE_WA.exe: 000010A8: 17:14:38 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RDYdyJEVqy10A83B818 ) : Addr: $007E124A
+GLE_WA.exe: 00002F40: 17:14:54 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002F40: 17:14:54 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002F40: 17:14:54 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002F40: 17:14:54 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002F40: 17:14:54 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002F40: 17:14:55 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002F40: 17:14:55 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000E44: 17:14:56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: pt4CcUl8qj10A83B84B ) : Addr: $007E124A
+GLE_WA.exe: 00003198: 17:15:09 [127.0.0.1]:EAccessViolation : Access violation at address 00AC2AF5 in module 'GLE_WA.exe'. Read of address 00000008 : Addr: $00AC2AF5
+GLE_WA.exe: 00002424: 17:15:44 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002424: 17:15:44 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002424: 17:15:44 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002424: 17:15:44 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002424: 17:15:44 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002424: 17:15:44 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002424: 17:15:44 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000018E8: 17:15:45 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RvTfZCV2Rx10A83B85E ) : Addr: $007E124A
+GLE_WA.exe: 0000221C: 17:16:53 []:>--------------------------------------------------------------<
+GLE_WA.exe: 0000221C: 17:16:53 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 0000221C: 17:16:53 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 0000221C: 17:16:53 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 0000221C: 17:16:53 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 0000221C: 17:16:53 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 0000221C: 17:16:53 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002AFC: 17:16:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: XANYO51Ij610A83B898 ) : Addr: $007E124A
+GLE_WA.exe: 00003768: 17:17:27 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003768: 17:17:27 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003768: 17:17:27 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003768: 17:17:27 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003768: 17:17:27 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003768: 17:17:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003768: 17:17:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002178: 17:17:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: MZjCvZmKU710A83B8E8 ) : Addr: $007E124A
+GLE_WA.exe: 000006A4: 17:18:58 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000006A4: 17:18:58 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000006A4: 17:18:58 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000006A4: 17:18:58 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000006A4: 17:18:58 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000006A4: 17:18:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000006A4: 17:18:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000D9C: 17:18:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: PExA1ILKAk10A83B90F ) : Addr: $007E124A
+GLE_WA.exe: 00002580: 17:19:57 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002580: 17:19:57 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002580: 17:19:57 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002580: 17:19:57 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002580: 17:19:57 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002580: 17:19:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002580: 17:19:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002A74: 17:19:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: pTe5bBb2kU10A83B978 ) : Addr: $007E124A
+GLE_WA.exe: 00001B7C: 17:23:35 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001B7C: 17:23:35 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001B7C: 17:23:35 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001B7C: 17:23:35 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001B7C: 17:23:35 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001B7C: 17:23:35 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001B7C: 17:23:35 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002430: 17:23:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: YROoV5X2Rz10A83B9BC ) : Addr: $007E124A
+GLE_WA.exe: 000036DC: 17:24:25 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000036DC: 17:24:25 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000036DC: 17:24:25 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000036DC: 17:24:25 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000036DC: 17:24:25 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000036DC: 17:24:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000036DC: 17:24:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003558: 17:24:26 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 9v89wRDHFK10A83BAB9 ) : Addr: $007E124A
+GLE_WA.exe: 00001D60: 17:25:14 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001D60: 17:25:14 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001D60: 17:25:14 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001D60: 17:25:14 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001D60: 17:25:14 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001D60: 17:25:14 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001D60: 17:25:14 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000017C0: 17:25:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: XqmQg8cAjI10A83BAF2 ) : Addr: $007E124A
+GLE_WA.exe: 00003738: 17:25:59 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003738: 17:25:59 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003738: 17:25:59 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003738: 17:25:59 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003738: 17:25:59 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003738: 17:25:59 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003738: 17:25:59 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 0000279C: 17:26:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: rRsy3LaNZK10A83BB2B ) : Addr: $007E124A
+GLE_WA.exe: 00003608: 17:26:42 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003608: 17:26:42 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003608: 17:26:42 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003608: 17:26:42 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003608: 17:26:42 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003608: 17:26:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003608: 17:26:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000012E0: 17:26:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: TlTIfxNu6Q10A83BB5F ) : Addr: $007E124A
+GLE_WA.exe: 00001268: 17:33:01 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001268: 17:33:01 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001268: 17:33:01 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001268: 17:33:01 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001268: 17:33:01 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001268: 17:33:01 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001268: 17:33:01 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 0000373C: 17:33:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RIcFnnJqrI10A83BB91 ) : Addr: $007E124A
+GLE_WA.exe: 00002470: 17:35:42 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002470: 17:35:42 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002470: 17:35:42 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002470: 17:35:42 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002470: 17:35:42 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002470: 17:35:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002470: 17:35:42 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 0000204C: 17:35:42 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: LZ1e8hfzvK10A83BD47 ) : Addr: $007E124A
+GLE_WA.exe: 00001B68: 17:37:03 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001B68: 17:37:03 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001B68: 17:37:03 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001B68: 17:37:03 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001B68: 17:37:03 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001B68: 17:37:03 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001B68: 17:37:03 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002AE4: 17:37:08 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DL5BpQcvl710A83BE01 ) : Addr: $007E124A
+GLE_WA.exe: 00000994: 17:37:45 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00000994: 17:37:45 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00000994: 17:37:45 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00000994: 17:37:45 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00000994: 17:37:45 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00000994: 17:37:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00000994: 17:37:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002330: 17:37:46 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 6j5yVSLFHM10A83BE64 ) : Addr: $007E124A
+GLE_WA.exe: 00003AD8: 17:41:23 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003AD8: 17:41:23 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003AD8: 17:41:23 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003AD8: 17:41:23 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003AD8: 17:41:23 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003AD8: 17:41:23 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003AD8: 17:41:23 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003B44: 17:41:25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DTDDTfVMWM10A83BE90 ) : Addr: $007E124A
+GLE_WA.exe: 00003BC8: 17:42:32 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003BC8: 17:42:32 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003BC8: 17:42:32 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003BC8: 17:42:32 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003BC8: 17:42:32 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003BC8: 17:42:32 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003BC8: 17:42:32 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000017E4: 17:42:34 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: cl9fseZJIN10A83BF8D ) : Addr: $007E127A
+GLE_WA.exe: 00003A7C: 17:43:06 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003A7C: 17:43:06 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003A7C: 17:43:06 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003A7C: 17:43:06 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003A7C: 17:43:06 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003A7C: 17:43:06 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003A7C: 17:43:06 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000038FC: 17:43:07 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Di4TbenOtL10A83BFDE ) : Addr: $007E127A
+GLE_WA.exe: 00003B9C: 17:44:05 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003B9C: 17:44:05 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003B9C: 17:44:05 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003B9C: 17:44:05 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003B9C: 17:44:05 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003B9C: 17:44:06 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003B9C: 17:44:06 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000AF4: 17:44:06 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: LSoE7ZKklt10A83C003 ) : Addr: $007E127A
+GLE_WA.exe: 00003BD0: 17:48:42 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003BD0: 17:48:42 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003BD0: 17:48:42 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003BD0: 17:48:42 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003BD0: 17:48:42 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003BD0: 17:48:43 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003BD0: 17:48:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003A64: 17:50:42 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003A64: 17:50:42 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003A64: 17:50:42 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003A64: 17:50:42 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003A64: 17:50:42 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003A64: 17:50:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003A64: 17:50:42 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000015F8: 17:50:44 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: OKG5CCMHUb10A83C189 ) : Addr: $007E127A
+GLE_WA.exe: 000000F4: 17:53:15 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000000F4: 17:53:15 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000000F4: 17:53:15 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000000F4: 17:53:15 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000000F4: 17:53:15 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000000F4: 17:53:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000000F4: 17:53:15 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002910: 17:53:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: QOEYOmYr9c10A83C214 ) : Addr: $007E127A
+GLE_WA.exe: 00003A50: 17:55:02 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003A50: 17:55:02 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003A50: 17:55:02 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003A50: 17:55:02 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003A50: 17:55:02 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003A50: 17:55:02 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003A50: 17:55:02 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000009F8: 17:56:47 [127.0.0.1]:EAccessViolation : Access violation at address 00AC2B25 in module 'GLE_WA.exe'. Read of address 00000008 : Addr: $00AC2B25
+GLE_WA.exe: 000036AC: 17:59:15 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000036AC: 17:59:15 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000036AC: 17:59:15 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000036AC: 17:59:15 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000036AC: 17:59:15 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000036AC: 17:59:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000036AC: 17:59:15 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000013C4: 17:59:17 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: VYXWp7g98O10A83C341 ) : Addr: $007E127A
+GLE_WA.exe: 000002D0: 18:00:25 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000002D0: 18:00:25 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000002D0: 18:00:25 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000002D0: 18:00:25 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000002D0: 18:00:25 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000002D0: 18:00:26 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000002D0: 18:00:26 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003AB8: 18:01:25 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003AB8: 18:01:25 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003AB8: 18:01:25 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003AB8: 18:01:25 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003AB8: 18:01:25 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003AB8: 18:01:26 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003AB8: 18:01:26 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001908: 18:01:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: h4bmFmvB5h10A83C4B7 ) : Addr: $007E127A
+GLE_WA.exe: 00000244: 18:02:34 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00000244: 18:02:34 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00000244: 18:02:34 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00000244: 18:02:34 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00000244: 18:02:34 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00000244: 18:02:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00000244: 18:02:35 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000037E8: 18:02:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ihJ61mQgGF10A83C4FD ) : Addr: $007E127A
+GLE_WA.exe: 00003A48: 18:02:53 [Access violation at address 00BD64A0 in module 'GLE_WA.exe'. Read of address 00000000-127.0.0.1]:EAccessViolation : Access violation at address 00BD64A0 in module 'GLE_WA.exe'. Read of address 00000000 : Addr: $00BD64A0
+GLE_WA.exe: 00003404: 18:05:46 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003404: 18:05:46 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003404: 18:05:46 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003404: 18:05:46 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003404: 18:05:46 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003404: 18:05:46 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003404: 18:05:46 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000013BC: 18:05:46 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: wOnb9t8S7A10A83C54C ) : Addr: $007E127A
+GLE_WA.exe: 00002784: 18:08:09 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002784: 18:08:09 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002784: 18:08:09 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002784: 18:08:09 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002784: 18:08:09 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002784: 18:08:09 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002784: 18:08:09 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000025EC: 18:08:10 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: weoYSf4RBE10A83C629 ) : Addr: $007E127A
+GLE_WA.exe: 00002A74: 18:08:36 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002A74: 18:08:36 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002A74: 18:08:36 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002A74: 18:08:36 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002A74: 18:08:36 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002A74: 18:08:36 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002A74: 18:08:36 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001908: 18:08:37 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: oIZ4JFKLYt10A83C6D0 ) : Addr: $007E127A
+GLE_WA.exe: 000008B8: 18:09:11 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000008B8: 18:09:11 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000008B8: 18:09:11 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000008B8: 18:09:11 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000008B8: 18:09:11 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000008B8: 18:09:11 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000008B8: 18:09:11 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001CB4: 18:09:12 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: wNJ3DIef1i10A83C6EF ) : Addr: $007E127A
+GLE_WA.exe: 000037E8: 18:10:10 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000037E8: 18:10:10 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000037E8: 18:10:10 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000037E8: 18:10:10 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000037E8: 18:10:10 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000037E8: 18:10:10 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000037E8: 18:10:10 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003A20: 18:10:11 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: SWzgys1bqj10A83C717 ) : Addr: $007E127A
+GLE_WA.exe: 00003928: 18:10:51 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003928: 18:10:51 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003928: 18:10:51 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003928: 18:10:51 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003928: 18:10:51 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003928: 18:10:51 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003928: 18:10:51 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003198: 18:10:51 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ynXTMKQTIA10A83C75B ) : Addr: $007E127A
+GLE_WA.exe: 000012D4: 18:41:21 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000012D4: 18:41:21 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000012D4: 18:41:21 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000012D4: 18:41:21 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000012D4: 18:41:21 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000012D4: 18:41:21 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 0000370C: 18:41:26 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: llLAnSOIOC10A83C78A ) : Addr: $007E127A
+GLE_WA.exe: 00001E04: 18:43:53 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001E04: 18:43:53 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001E04: 18:43:53 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001E04: 18:43:53 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001E04: 18:43:53 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001E04: 18:43:53 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001E04: 18:43:53 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000D9C: 18:43:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Dm1fUTyLLz10A83CFD5 ) : Addr: $007E127A
+GLE_WA.exe: 00003B90: 18:45:24 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003B90: 18:45:24 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003B90: 18:45:24 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003B90: 18:45:24 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003B90: 18:45:24 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003B90: 18:45:24 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003B90: 18:45:24 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002DF0: 18:45:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: OONjqouCJS10A83D081 ) : Addr: $007E127A
+GLE_WA.exe: 00000984: 18:48:33 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00000984: 18:48:33 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00000984: 18:48:33 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00000984: 18:48:33 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00000984: 18:48:33 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00000984: 18:48:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00000984: 18:48:34 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00001184: 18:49:05 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001184: 18:49:05 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001184: 18:49:05 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001184: 18:49:05 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001184: 18:49:05 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001184: 18:49:05 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001184: 18:49:05 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 0000205C: 18:49:06 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 4E5yjELtAp10A83D1C5 ) : Addr: $007E127A
+GLE_WA.exe: 00003578: 18:49:44 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003578: 18:49:44 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003578: 18:49:44 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003578: 18:49:44 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003578: 18:49:44 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003578: 18:49:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003578: 18:49:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000474: 18:49:45 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: SRlrI64fGL10A83D1E9 ) : Addr: $007E127A
+GLE_WA.exe: 000038C4: 18:50:58 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000038C4: 18:50:58 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000038C4: 18:50:58 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000038C4: 18:50:58 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000038C4: 18:50:58 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000038C4: 18:50:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000038C4: 18:50:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003A3C: 18:50:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: aQRGb3Uns910A83D217 ) : Addr: $007E127A
+GLE_WA.exe: 00003F74: 18:59:20 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003F74: 18:59:20 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003F74: 18:59:20 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003F74: 18:59:20 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003F74: 18:59:20 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003F74: 18:59:20 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003F74: 18:59:20 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003D44: 18:59:21 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: C45jp5wl3n10A83D26C ) : Addr: $007E127A
+GLE_WA.exe: 00000E44: 19:14:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Rktu1v2Rrd10A83D4B2 ) : Addr: $007E127A
+GLE_WA.exe: 000025A0: 20:55:20 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000025A0: 20:55:20 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000025A0: 20:55:20 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000025A0: 20:55:20 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000025A0: 20:55:20 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000025A0: 20:55:20 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000314: 20:56:15 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00000314: 20:56:15 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00000314: 20:56:15 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00000314: 20:56:15 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00000314: 20:56:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00000314: 20:56:16 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000039D8: 20:57:56 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000039D8: 20:57:56 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000039D8: 20:57:56 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000039D8: 20:57:56 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000039D8: 20:57:56 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000039D8: 20:57:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000039D8: 20:57:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 0000156C: 20:57:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: F17h259QpC10A83F46A ) : Addr: $007E127A
+GLE_WA.exe: 00002E80: 21:01:34 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002E80: 21:01:34 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002E80: 21:01:34 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002E80: 21:01:34 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002E80: 21:01:34 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002E80: 21:01:35 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002E80: 21:01:35 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003F18: 21:01:37 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: QXFx7xDBFt10A83F5CE ) : Addr: $007E127A
+GLE_WA.exe: 00001978: 21:04:52 [127.0.0.1]:ERESTException : REST request failed: Error receiving data: (12030) The connection with the server was terminated abnormally : Addr: $00BBE5E2
+GLE_WA.exe: 00000F48: 21:11:25 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00000F48: 21:11:25 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00000F48: 21:11:25 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00000F48: 21:11:25 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00000F48: 21:11:25 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00000F48: 21:11:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00000F48: 21:11:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003D1C: 21:11:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 2S6pvrQfS410A83F5DC ) : Addr: $007E127A
+GLE_WA.exe: 00003F68: 21:14:16 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003F68: 21:14:16 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003F68: 21:14:16 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003F68: 21:14:16 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003F68: 21:14:16 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003F68: 21:14:16 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003F68: 21:14:17 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000DD8: 21:14:32 [127.0.0.1]:EAccessViolation : Access violation at address 00BAC411 in module 'GLE_WA.exe'. Read of address 00000000 : Addr: $00BAC411
+GLE_WA.exe: 00001B54: 21:15:15 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001B54: 21:15:15 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001B54: 21:15:15 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001B54: 21:15:15 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001B54: 21:15:15 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001B54: 21:15:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001B54: 21:15:15 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003CA0: 21:15:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ZLYlPFxBAj10A83F94C ) : Addr: $007E127A
+GLE_WA.exe: 00001C84: 21:22:16 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001C84: 21:22:16 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001C84: 21:22:16 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001C84: 21:22:16 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001C84: 21:22:16 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001C84: 21:22:16 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001C84: 21:22:16 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 0000362C: 21:22:17 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: qpImnw4iLA10A83F990 ) : Addr: $007E127A
+GLE_WA.exe: 00003B44: 21:28:20 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003B44: 21:28:20 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003B44: 21:28:20 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003B44: 21:28:20 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003B44: 21:28:20 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003B44: 21:28:20 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003B44: 21:28:20 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 0000384C: 21:28:21 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: e2zaNBPZdR10A83FB78 ) : Addr: $007E127A
+GLE_WA.exe: 00002514: 21:36:05 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00002514: 21:36:05 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00002514: 21:36:05 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00002514: 21:36:05 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00002514: 21:36:05 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00002514: 21:36:05 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00002514: 21:36:05 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000558: 21:36:06 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: vaBUD9fwjt10A83FDA7 ) : Addr: $007E127A
+GLE_WA.exe: 000018F0: 21:37:34 []:>--------------------------------------------------------------<
+GLE_WA.exe: 000018F0: 21:37:34 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 000018F0: 21:37:34 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 000018F0: 21:37:34 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 000018F0: 21:37:34 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 000018F0: 21:37:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 000018F0: 21:37:34 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003B24: 21:37:34 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: sT8uhN5tGy10A83FF37 ) : Addr: $007E127A
+GLE_WA.exe: 00003724: 21:44:12 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003724: 21:44:12 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003724: 21:44:12 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003724: 21:44:12 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003724: 21:44:12 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003724: 21:44:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003724: 21:44:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003CA0: 21:44:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: rOZfftvB1F10A83FF9D ) : Addr: $007E127A
+GLE_WA.exe: 00001FC8: 21:46:10 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00001FC8: 21:46:10 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00001FC8: 21:46:10 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00001FC8: 21:46:10 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00001FC8: 21:46:10 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00001FC8: 21:46:10 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00001FC8: 21:46:10 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00002ABC: 21:46:11 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ZSphK6ocRg10A84016A ) : Addr: $007E127A
+GLE_WA.exe: 00003CA0: 21:46:58 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003CA0: 21:46:58 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003CA0: 21:46:58 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003CA0: 21:46:58 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003CA0: 21:46:58 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003CA0: 21:46:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003CA0: 21:46:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00003F08: 21:46:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: w8Co7JhZ8n10A8401F3 ) : Addr: $007E127A
+GLE_WA.exe: 00003CCC: 21:48:23 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003CCC: 21:48:23 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003CCC: 21:48:23 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003CCC: 21:48:23 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003CCC: 21:48:23 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003CCC: 21:48:23 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003CCC: 21:48:23 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000036F8: 21:48:25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 5h3oVOzPlk10A84022B ) : Addr: $007E127A
+GLE_WA.exe: 00003EB0: 21:51:59 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003EB0: 21:51:59 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003EB0: 21:51:59 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003EB0: 21:51:59 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003EB0: 21:51:59 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003EB0: 21:51:59 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003EB0: 21:51:59 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 000039C4: 21:52:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: HaqmEuYxrY10A84028F ) : Addr: $007E127A
+GLE_WA.exe: 00003968: 21:52:33 []:>--------------------------------------------------------------<
+GLE_WA.exe: 00003968: 21:52:33 [TUniServerModule]:Server First Init.
+GLE_WA.exe: 00003968: 21:52:33 [TUniServerModule]:Start Path = D:\DEV\GLE_WA\Win32\Debug\
+GLE_WA.exe: 00003968: 21:52:33 [TUniServerModule]:Debug Mode = ON
+GLE_WA.exe: 00003968: 21:52:33 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+GLE_WA.exe: 00003968: 21:52:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+GLE_WA.exe: 00003968: 21:52:33 [TUniServerModule]:HTTP Server Started on Port: 8077
+GLE_WA.exe: 00000590: 21:52:33 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: HpjYZv3Le310A840387 ) : Addr: $007E127A
+GLE_WA.exe: 00003968: 22:30:31 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0
