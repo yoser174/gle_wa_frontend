@@ -1,9 +1,0 @@
-GLE_WA.exe: 00003C24: 21:04:52 [127.0.0.1]:Failed Sequence Recovery: SeqId: 24, Event: click
-GLE_WA.exe: 00001830: 21:04:52 [127.0.0.1]:Failed Sequence Recovery: SeqId: 24, Event: click
-GLE_WA.exe: 00001568: 21:04:52 [127.0.0.1]:Failed Sequence Recovery: SeqId: 24, Event: click
-GLE_WA.exe: 00001830: 21:04:52 [127.0.0.1]:Sequence sent from cache:  SeqId: 24
-GLE_WA.exe: 00001830: 21:04:52 [127.0.0.1]:Processed: Id: 24, Evt: click, [2S6pvrQfS410A83F5DC]
-GLE_WA.exe: 00001568: 21:04:52 [127.0.0.1]:Sequence sent from cache:  SeqId: 24
-GLE_WA.exe: 00001568: 21:04:52 [127.0.0.1]:Processed: Id: 24, Evt: click, [2S6pvrQfS410A83F5DC]
-GLE_WA.exe: 00003C24: 21:04:52 [127.0.0.1]:Sequence sent from cache:  SeqId: 24
-GLE_WA.exe: 00003C24: 21:04:52 [127.0.0.1]:Processed: Id: 24, Evt: click, [2S6pvrQfS410A83F5DC]

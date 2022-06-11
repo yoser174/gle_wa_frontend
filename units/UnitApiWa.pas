@@ -9,30 +9,32 @@ uses Windows, System.Classes, System.NetEncoding, REST.Types,
 function CheckReady(): boolean;
 function SendMessage(sMsg: String; var OutMsg: string): boolean;
 function SendPDF(sMsg: String; var OutMsg: string): boolean;
+function SendEmail(sMsg: String; var OutMsg: string): boolean;
 function IsRegisteredUser(number: string): boolean;
 function GetProfilePic(number: string; var picUrl: string): boolean;
 function GetContact(number: string; var name: string; var pushname: string;
   var shortName: string): boolean;
-function EncodeFile(const FileName: string): ansiString;
+function EncodeFile(const FileName: string): String;
 
 implementation
 
 const
-  WA_API_HOST = 'http://192.168.0.21:5000';
+  WA_API_HOST = 'http://127.0.0.1:5000';
 
 procedure DebugMsg(const Msg: String);
 begin
   OutputDebugString(PChar(Msg + char(10)));
 end;
 
-function EncodeFile(const FileName: string): ansiString;
+function EncodeFile(const FileName: string): String;
 var
   stream: TMemoryStream;
 begin
   stream := TMemoryStream.Create;
   try
     stream.LoadFromFile(FileName);
-    Result := EncodeBase64(stream.Memory, stream.Size);
+    Result := String(EncodeBase64(stream.Memory, stream.Size))
+      .Replace(#13#10, '');
   finally
     stream.Free;
   end;
@@ -250,6 +252,34 @@ begin
   DebugMsg('shortName:' + shortName);
 
   if UpperCase(Trim(success)) = 'TRUE' then
+    Result := True
+  else
+    Result := False;
+end;
+
+function SendEmail(sMsg: String; var OutMsg: string): boolean;
+var
+  LJSONObject, jsRequest: TJSONObject;
+  Content, success: string;
+begin
+  DebugMsg('SendEmail:' + sMsg);
+  DebugMsg('sMsg:' + sMsg);
+  jsRequest := TJSONObject.ParseJSONValue(TEncoding.UTF8.GetBytes(sMsg), 0)
+    as TJSONObject;
+  Content := PostApi('/mailer/sendmailpdf', jsRequest);
+
+  LJSONObject := nil;
+  try
+    LJSONObject := TJSONObject.ParseJSONValue(TEncoding.UTF8.GetBytes(Content),
+      0) as TJSONObject;
+
+    success := LJSONObject.Values['success'].ToString;
+    OutMsg := LJSONObject.Values['message'].ToString;
+  finally
+    LJSONObject.Free;
+  end;
+
+  if UpperCase(success) = 'TRUE' then
     Result := True
   else
     Result := False;

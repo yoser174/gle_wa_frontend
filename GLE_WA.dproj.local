@@ -1,19 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2022-06-01 10:57:13.317,=D:\DEV\GLE_WA\ServerModule.pas</Transaction>
-    <Transaction>2022-06-01 10:57:13.417,=D:\DEV\GLE_WA\MainModule.pas</Transaction>
-    <Transaction>2022-06-01 10:57:21.552,=D:\DEV\GLE_WA\Main.pas</Transaction>
-    <Transaction>2022-06-01 11:06:09.747,=D:\DEV\GLE_WA\Unit1.pas</Transaction>
-    <Transaction>2022-06-01 11:06:38.342,D:\DEV\GLE_WA\form\UnitVerifikasiAkhir.pas=D:\DEV\GLE_WA\Unit1.pas</Transaction>
-    <Transaction>2022-06-01 11:06:38.342,D:\DEV\GLE_WA\form\UnitVerifikasiAkhir.dfm=D:\DEV\GLE_WA\Unit1.dfm</Transaction>
-    <Transaction>2022-06-01 11:50:29.532,=D:\DEV\GLE_WA\Unit1.pas</Transaction>
-    <Transaction>2022-06-01 11:51:07.975,D:\DEV\GLE_WA\form\UnitHasilDetail.dfm=D:\DEV\GLE_WA\Unit1.dfm</Transaction>
-    <Transaction>2022-06-01 11:51:07.975,D:\DEV\GLE_WA\form\UnitHasilDetail.pas=D:\DEV\GLE_WA\Unit1.pas</Transaction>
-    <Transaction>2022-06-01 14:22:28.823,=D:\DEV\GLE_WA\Unit1.pas</Transaction>
-    <Transaction>2022-06-01 14:24:13.175,D:\DEV\GLE_WA\form\UnitWaMessages.dfm=D:\DEV\GLE_WA\Unit1.dfm</Transaction>
-    <Transaction>2022-06-01 14:24:13.175,D:\DEV\GLE_WA\form\UnitWaMessages.pas=D:\DEV\GLE_WA\Unit1.pas</Transaction>
-    <Transaction>2022-06-01 14:48:31.180,=D:\DEV\GLE_WA\Unit1.pas</Transaction>
-    <Transaction>2022-06-01 14:48:56.027,D:\DEV\GLE_WA\units\UnitApiWa.pas=D:\DEV\GLE_WA\Unit1.pas</Transaction>
+	<Transactions>
+    <Transaction>2022-06-01 10:57:13.000.317,=D:\DEV\GLE_WA\ServerModule.pas</Transaction>
+    <Transaction>2022-06-01 10:57:13.000.417,=D:\DEV\GLE_WA\MainModule.pas</Transaction>
+    <Transaction>2022-06-01 10:57:21.000.552,=D:\DEV\GLE_WA\Main.pas</Transaction>
+    <Transaction>2022-06-01 11:06:09.000.747,=D:\DEV\GLE_WA\Unit1.pas</Transaction>
+    <Transaction>2022-06-01 11:06:38.000.342,D:\DEV\GLE_WA\Unit1.dfm=D:\DEV\GLE_WA\form\UnitVerifikasiAkhir.dfm</Transaction>
+    <Transaction>2022-06-01 11:06:38.000.342,D:\DEV\GLE_WA\Unit1.pas=D:\DEV\GLE_WA\form\UnitVerifikasiAkhir.pas</Transaction>
+    <Transaction>2022-06-01 11:50:29.000.532,=D:\DEV\GLE_WA\Unit1.pas</Transaction>
+    <Transaction>2022-06-01 11:51:07.000.975,D:\DEV\GLE_WA\Unit1.pas=D:\DEV\GLE_WA\form\UnitHasilDetail.pas</Transaction>
+    <Transaction>2022-06-01 11:51:07.000.975,D:\DEV\GLE_WA\Unit1.dfm=D:\DEV\GLE_WA\form\UnitHasilDetail.dfm</Transaction>
+    <Transaction>2022-06-01 14:22:28.000.823,=D:\DEV\GLE_WA\Unit1.pas</Transaction>
+    <Transaction>2022-06-01 14:24:13.000.175,D:\DEV\GLE_WA\Unit1.pas=D:\DEV\GLE_WA\form\UnitWaMessages.pas</Transaction>
+    <Transaction>2022-06-01 14:24:13.000.175,D:\DEV\GLE_WA\Unit1.dfm=D:\DEV\GLE_WA\form\UnitWaMessages.dfm</Transaction>
+    <Transaction>2022-06-01 14:48:31.000.180,=D:\DEV\GLE_WA\Unit1.pas</Transaction>
+    <Transaction>2022-06-01 14:48:56.000.027,D:\DEV\GLE_WA\Unit1.pas=D:\DEV\GLE_WA\units\UnitApiWa.pas</Transaction>
+    <Transaction>2022-06-11 18:20:56.863,=D:\GDrive\GSLE_WAEMAIL_GUI\gle_wa_frontend\Unit1.pas</Transaction>
+    <Transaction>2022-06-11 18:21:36.422,D:\GDrive\GSLE_WAEMAIL_GUI\gle_wa_frontend\form\UnitEmailMessage.dfm=D:\GDrive\GSLE_WAEMAIL_GUI\gle_wa_frontend\Unit1.dfm</Transaction>
+    <Transaction>2022-06-11 18:21:36.422,D:\GDrive\GSLE_WAEMAIL_GUI\gle_wa_frontend\form\UnitEmailMessage.pas=D:\GDrive\GSLE_WAEMAIL_GUI\gle_wa_frontend\Unit1.pas</Transaction>
+    <Transaction>2022-06-11 23:04:47.658,=D:\GDrive\GSLE_WAEMAIL_GUI\gle_wa_frontend\Unit1.pas</Transaction>
+    <Transaction>2022-06-11 23:05:01.551,D:\GDrive\GSLE_WAEMAIL_GUI\gle_wa_frontend\units\UnitApiMailer.pas=D:\GDrive\GSLE_WAEMAIL_GUI\gle_wa_frontend\Unit1.pas</Transaction>
+    <Transaction>2022-06-11 23:43:34.719,D:\GDrive\GSLE_WAEMAIL_GUI\gle_wa_frontend\units\UnitApiMailer.pas=</Transaction>
   </Transactions>
 </BorlandProject>
